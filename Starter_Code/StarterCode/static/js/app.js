@@ -96,7 +96,7 @@ function buildBarChart(sample) {
 
         // add title with layout
         let layout = {
-            title: "Top 10 OTUs Present"
+            title: "Top 10 OTUs"
         };
 
         // plot the bar chart
